@@ -31,18 +31,7 @@ It was created as part of my Business Analytics portfolio to demonstrate practic
 * Data Visualization
 * Business Analytics
 
- 📁 Project Structure
-
-```text
-Retail-Orders-Insights-Portfolio/
-│
-├── README.md
-├── Retail_Orders_Analytics.xlsx
-├── data_dictionary.csv
-├── PROJECT_SUMMARY.md
-└── KEY_INSIGHTS.md
-```
-
+ 
  📂 Workbook Sheets
 
 | Sheet                     | Description                           |
